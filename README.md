@@ -25,3 +25,11 @@ This repository contains several links to assignments, or lab codes of the books
 * **Fundamentals of Logic Design 7/E**                      \[ [Repo](https://github.com/0x00000FF/fundamentals-of-logic-design-vhdl) \]
 
   Roth Kinney
+  
+
+# Presentations in Conferences/Seminars
+
+* **Prepared Statement 올바르게 사용하기**                      \[ [Repo](https://github.com/0x00000FF/DaechungCon-Prepared-Statement) \]
+
+  대전충청 정보보호 동아리 연합 세미나 "대충콘" 제 1회 발표
+  
