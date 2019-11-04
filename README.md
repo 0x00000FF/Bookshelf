@@ -10,6 +10,10 @@ This repository contains several links to assignments, or lab codes of the books
 
   Randal E. Bryan, David R. O'Hallaron
 
+* **Introduction to Algorithms**                            \[ [Repo](https://github.com/0x00000FF/clrs-3e) \]
+
+  Cormen, Leiserson, et al.
+
 * **Data Structures and Their Algorithms**                  \[ [Repo](https://github.com/0x00000FF/dsnta) \]
  
   Harry R. Lewis, Larry Denenberg
@@ -25,7 +29,10 @@ This repository contains several links to assignments, or lab codes of the books
 * **Fundamentals of Logic Design 7/E**                      \[ [Repo](https://github.com/0x00000FF/fundamentals-of-logic-design-vhdl) \]
 
   Roth Kinney
+
+* **Concepts of Programming Languages 11/E**                \[ [Repo](https://github.com/0x00000FF/concepts-of-programming-languages) \]
   
+  Robert W. Sebesta
 
 # Presentations in Conferences/Seminars
 
