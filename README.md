@@ -33,6 +33,10 @@ This repository contains several links to assignments, or lab codes of the books
 * **Concepts of Programming Languages 11/E**                \[ [Repo](https://github.com/0x00000FF/concepts-of-programming-languages) \]
   
   Robert W. Sebesta
+  
+* **Purely Functional Data Structures**                     \[ [Repo](https://github.com/0x00000FF/purely-functional-data-structures) \]
+
+  Chris Okasaki
 
 # Presentations in Conferences/Seminars
 
